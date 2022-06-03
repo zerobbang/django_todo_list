@@ -1,4 +1,4 @@
-django to do list 
+# django to do list 참고 자료
 ---
 # 프로젝트 개요
 - Python Django로 To-do List를 만들어본다. 
