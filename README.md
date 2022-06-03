@@ -1,3 +1,5 @@
+django to do list 
+---
 # 프로젝트 개요
 - Python Django로 To-do List를 만들어본다. 
 
